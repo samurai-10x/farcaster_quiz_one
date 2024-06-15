@@ -1,0 +1,100 @@
+{
+  "shortDescription": "Fun quiz about celebs and pets!",
+  "questions": [
+    {
+      "question": "Beyonce's birth year?",
+      "answers": ["1981", "1982", "1983"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "question": "Oldest dog breed?",
+      "answers": ["Basenji", "Beagle", "Bulldog"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Most streams?",
+      "answers": ["Drake", "Bieber", "Swift"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Harry Styles' birth year?",
+      "answers": ["1993", "1994", "1995"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "Smallest cat breed?",
+      "answers": ["Sphynx", "Munchkin", "Bengal"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "Adele's Grammy year?",
+      "answers": ["2016", "2017", "2018"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "Avg dog lifespan?",
+      "answers": ["10", "13", "15"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "The Weeknd's birth year?",
+      "answers": ["1989", "1990", "1991"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "Most popular dog?",
+      "answers": ["Labrador", "Poodle", "Beagle"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Billie Eilish's Grammy?",
+      "answers": ["Bad Guy", "Ocean", "Bored"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Cats' sleep hours?",
+      "answers": ["12", "14", "16"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "question": "First Grammy?",
+      "answers": ["Swift", "Eilish", "Lizzo"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Ed Sheeran birth year?",
+      "answers": ["1990", "1991", "1992"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Cats' whiskers?",
+      "answers": ["20", "24", "28"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "Drake's Grammy year?",
+      "answers": ["2017", "2018", "2019"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "question": "Selena Gomez born?",
+      "answers": ["1991", "1992", "1993"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "Highest streams?",
+      "answers": ["Rihanna", "Grande", "Bieber"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "question": "Shawn Mendes' birth year?",
+      "answers": ["1997", "1998", "1999"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "question": "Smartest dog?",
+      "answers": ["Border", "Poodle", "Retriever"],
+      "correctAnswerIndex": 0
+    }
+  ]
+}
